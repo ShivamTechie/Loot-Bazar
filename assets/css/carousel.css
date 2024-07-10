@@ -1,0 +1,8 @@
+.crosule {
+  mix-blend-mode: multiply;
+  height: 360px !important;
+  margin: 0 auto !important;
+
+  max-width: 100% !important;
+  display: block !important;
+}

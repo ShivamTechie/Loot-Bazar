@@ -1,0 +1,9 @@
+.related-a-tag {
+  height: 2.6em;
+  display: block;
+  overflow: hidden;
+  line-height: 1.4em;
+}
+.related-a-tag:hover {
+  text-decoration: underline !important;
+}
